@@ -1,7 +1,7 @@
 import cv2, os
 
 # read video
-video_path = os.path.join('.','data','clip.mp4')
+video_path = os.path.join('..', 'data', 'clip.mp4')
 video = cv2.VideoCapture(video_path)
 
 # visualize image

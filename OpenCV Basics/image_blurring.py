@@ -1,6 +1,6 @@
 import cv2, os
 
-img = cv2.imread(os.path.join('.','data','img.png'))
+img = cv2.imread(os.path.join('..', 'data', 'img.png'))
 
 # blur
 k_size = 7

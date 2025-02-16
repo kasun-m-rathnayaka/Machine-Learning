@@ -1,7 +1,7 @@
 import cv2, os
 import numpy as np
 
-img = cv2.imread(os.path.join('.','data','edge.jpg'))
+img = cv2.imread(os.path.join('.', 'data', 'edge.jpg'))
 
 #Canny edge detecter
 img_edge = cv2.Canny(img, 100, 400)

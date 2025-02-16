@@ -1,6 +1,6 @@
 import cv2, os
 
-img = cv2.imread(os.path.join('.','data','img.jpg'))
+img = cv2.imread(os.path.join('..', 'data', 'img.jpg'))
 
 # resize
 resized_img = cv2.resize(img,(640, 480))

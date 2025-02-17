@@ -1,6 +1,7 @@
-import cv2, os
+import cv2
+import os
 
-img = cv2.imread(os.path.join('..', 'data', 'img.jpg'))
+img = cv2.imread(os.path.join('..', 'data', 'image.jpg'))
 
 # line
 cv2.line(img, (0, 0), (1000, 1000), (100, 255, 0), 3)

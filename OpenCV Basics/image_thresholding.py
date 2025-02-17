@@ -1,6 +1,6 @@
 import cv2, os
 
-img = cv2.imread(os.path.join('..', 'data', 'img.jpg'))
+img = cv2.imread(os.path.join('.', 'data', 'img.jpg'))
 
 # global threshold
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)

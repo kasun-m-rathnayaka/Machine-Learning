@@ -1,6 +1,6 @@
 import cv2, os
 
-img = cv2.imread(os.path.join('..', 'data', 'birds.jpg'))
+img = cv2.imread(os.path.join('.', 'data', 'birds.jpg'))
 
 imgray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ret, thresh = cv2.threshold(imgray, 127, 255, cv2.THRESH_BINARY_INV)

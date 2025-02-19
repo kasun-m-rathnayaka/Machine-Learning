@@ -12,16 +12,22 @@ def process_img(img, face_detection):
             detection_data = detection.location_data
             bbox = detection_data.relative_bounding_box
 
-            x1, y1, w, h = bbox.xmin, bbox.ymin, bbox.width, bbox.height
-            x1 = int(x1 * W)
-            y1 = int(y1 * H)
-            w = int(w * W)
-            h = int(h * H)
+            x, y, w, h = int(bbox.xmin * W), int(bbox.ymin * H), int(bbox.width * W), int(bbox.height * H)
+            img = cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
-            # img = cv2.rectangle(img, (x1, y1), (x1+ w, y1 + h), (0, 255, 0), 2)
+            # anonymize face
+            img[y:y+h, x:x+w] = cv2.GaussianBlur(img[y:y+h, x:x+w], (99, 99), 30)
 
-            # blur faces
-            img[y1:y1 + h, x1: x1 + w] = cv2.blur(img[y1:y1 + h, x1: x1 + w], (50, 50))
+            # x1, y1, w, h = bbox.xmin, bbox.ymin, bbox.width, bbox.height
+            # x1 = int(x1 * W)
+            # y1 = int(y1 * H)
+            # w = int(w * W)
+            # h = int(h * H)
+            #
+            # # img = cv2.rectangle(img, (x1, y1), (x1+ w, y1 + h), (0, 255, 0), 2)
+            #
+            # # blur faces
+            # img[y1:y1 + h, x1: x1 + w] = cv2.blur(img[y1:y1 + h, x1: x1 + w], (50, 50))
 
     return img
 

@@ -5,9 +5,354 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be0dfb71-1c42-47df-83a3-b41a542c883d" name="Changes" comment="trained image_classifiction model">
-      <change afterPath="$PROJECT_DIR$/Image Classificatoin/model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image classification and feature extraction/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Synthatic image generation and Stable defution/colab code screenshot.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Synthatic image generation and Stable defution/realistic human.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/happy/0116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/sad/0115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0055.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0056.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0057.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0058.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0061.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0066.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0084.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0087.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0090.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0091.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0093.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0097.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0099.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/data/surprised/0115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imotion detection/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Face Annonymizer/face_annomizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Face Annonymizer/face_annomizer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +399,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/skills/AI/Computer Vision/Image Classificatoin/data",
+    "last_opened_file_path": "D:/skills/AI/Computer Vision/imotion detection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +411,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\skills\AI\Computer Vision\imotion detection" />
+      <recent name="D:\skills\AI\Computer Vision\Synthatic image generation and Stable defution" />
       <recent name="D:\skills\AI\Computer Vision\Image Classificatoin\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -97,7 +444,8 @@
       <workItem from="1739928771757" duration="4423000" />
       <workItem from="1739952412613" duration="180000" />
       <workItem from="1739952607243" duration="649000" />
-      <workItem from="1739954261888" duration="5211000" />
+      <workItem from="1739954261888" duration="8756000" />
+      <workItem from="1740617143877" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="trained image_classifiction model">
       <option name="closed" value="true" />
@@ -125,7 +473,7 @@
     <SUITE FILE_PATH="coverage/Computer_Vision$image_classifiction.coverage" NAME="image_classifiction Coverage Results" MODIFIED="1739931875302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image Classificatoin" />
     <SUITE FILE_PATH="coverage/Computer_Vision$video_processing_basics.coverage" NAME="video_processing_basics Coverage Results" MODIFIED="1739807603000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV Basics" />
     <SUITE FILE_PATH="coverage/Computer_Vision$image_processing_basics.coverage" NAME="image_processing_basics Coverage Results" MODIFIED="1739819626344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV Basics" />
-    <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1739960079117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/image classification and feature extraction" />
+    <SUITE FILE_PATH="coverage/Computer_Vision$main.coverage" NAME="main Coverage Results" MODIFIED="1740620370136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imotion detection" />
     <SUITE FILE_PATH="coverage/Computer_Vision$conters.coverage" NAME="conters Coverage Results" MODIFIED="1739807536272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV Basics" />
     <SUITE FILE_PATH="coverage/Computer_Vision$face_annomizer.coverage" NAME="face_annomizer Coverage Results" MODIFIED="1739819989229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Face Annonymizer" />
     <SUITE FILE_PATH="coverage/Computer_Vision$edge_detecter.coverage" NAME="edge_detecter Coverage Results" MODIFIED="1739819709408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OpenCV Basics" />

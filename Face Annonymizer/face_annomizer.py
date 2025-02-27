@@ -26,7 +26,7 @@ def process_img(img, face_detection):
             #
             # # img = cv2.rectangle(img, (x1, y1), (x1+ w, y1 + h), (0, 255, 0), 2)
             #
-            # # blur faces
+            # # blur data
             # img[y1:y1 + h, x1: x1 + w] = cv2.blur(img[y1:y1 + h, x1: x1 + w], (50, 50))
 
     return img
@@ -41,7 +41,7 @@ args = parser.parse_args()
 img = cv2.imread("./data/face.jpg")
 H, W, _ = img.shape
 
-# detect faces
+# detect data
 mp_face_detection = mp.solutions.face_detection
 
 with mp_face_detection.FaceDetection(model_selection=0, min_detection_confidence=0.5) as face_detection:

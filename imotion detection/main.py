@@ -1,5 +1,7 @@
 import os
 import cv2
+import numpy as np
+
 from utils import get_face_landmarks
 
 # clean the data
@@ -9,12 +11,18 @@ from utils import get_face_landmarks
 data_dir = './data'
 
 output = []
-for emotion in os.listdir(data_dir):
+for emotion_index ,emotion in enumerate(sorted(os.listdir(data_dir))):
     for image_path in os.listdir(os.path.join(data_dir, emotion)):
         image = cv2.imread(os.path.join(data_dir, emotion, image_path))
         face_landmarks = get_face_landmarks(image)
-        print(emotion)
-        # if len(face_landmarks):
+
+        if len(face_landmarks) == 1404:
+            output.append(face_landmarks)
+            face_landmarks.append(int(emotion_index))
+
+np.savetxt('data.txt', np.asarray(output))
+
+
 
 # train model
 
